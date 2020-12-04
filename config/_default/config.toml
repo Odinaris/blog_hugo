@@ -1,19 +1,19 @@
-baseURL = "/"
-title = "Eurek1a Demo"
+baseURL = "https://odinaris.github.io/"
+title = "临水撷石"
 
 # Comment when installing using Hugo Modules
 theme = "eureka"
 # Uncomment when installing using Hugo Modules
 # theme = "github.com/wangchucheng/hugo-eureka"
 
-paginate = 3
-copyright = "&copy; 2020 <a href=\"https://www.wangchucheng.com/\">C. Wang</a> and <a href=\"https://www.ruiqima.com/\">R. Ma</a>"
+paginate = 10
+# copyright = "&copy; 2020 <a href=\"https://www.wangchucheng.com/\">C. Wang</a> and <a href=\"https://www.ruiqima.com/\">R. Ma</a>"
 enableEmoji = true
 enableGitInfo = false
 summaryLength = 75
 
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean.
+defaultContentLanguage = "zh"
+hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir = false
 
 # Uncomment for google analytics
@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 6
-    ordered = false
+    ordered = true
   [markup.goldmark.renderer]
     unsafe = true
 

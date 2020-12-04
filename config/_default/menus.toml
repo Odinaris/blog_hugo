@@ -1,0 +1,19 @@
+[[main]]
+  name = "关于我"
+  url = "/authors/duyang/"
+  weight = 5
+
+[[main]]
+  name = "文章"
+  url = "/posts/"
+  weight = 2
+
+# [[main]]
+#   name = "文档"
+#   url = "/docs/"
+#   weight = 3
+
+ [[main]]
+  name = "札记"
+  url = "/message/"
+  weight = 4 
