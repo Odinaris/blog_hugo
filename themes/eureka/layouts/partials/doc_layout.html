@@ -161,4 +161,7 @@
 {{ end }}
 {{ end }}
 {{ end }}
+{{ $versions := .context.Scratch.Get "versions" }}
+{{ .context.Scratch.Delete "versions" }}
+{{ return $versions }}
 {{ end }}
