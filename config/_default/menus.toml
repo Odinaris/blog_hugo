@@ -1,12 +1,18 @@
-[[main]]
-  name = "关于我"
-  url = "/authors/duyang/"
-  weight = 5
 
 [[main]]
-  name = "文章"
-  url = "/posts/"
+  name = "科研"
+  url = "/categories/科研/"
+  weight = 1
+
+  [[main]]
+  name = "技术"
+  url = "/categories/技术/"
   weight = 2
+
+  [[main]]
+  name = "生活"
+  url = "/categories/生活/"
+  weight = 3
 
 # [[main]]
 #   name = "文档"
@@ -17,3 +23,8 @@
   name = "札记"
   url = "/message/"
   weight = 4 
+
+  [[main]]
+  name = "关于我"
+  url = "/authors/duyang/"
+  weight = 5
