@@ -32,7 +32,7 @@ publisherLogo = ""
   #   # Browse https://katex.org/docs/options.html to see the options available.
   #   # KaTeX's Auto-render ignores `displayMode` property of the options, so this property will not work.
   #   # You can list the key and value you want as below.
-  #   leqno = ""
+  leqno = true
 
 [comment]
   # Options: disqus and commento.
