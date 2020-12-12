@@ -1,13 +1,16 @@
 +++
 title = "札记"
-description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+author = ["duyang"]
 toc = true
 +++
 
+## 2020.12.12
 
+这一个月来的杜洋是我研究生生涯以来最堕落的一个月。整天玩游戏，失去了科研理想与情怀。
+
+现在的我就是一滩烂泥。
 
 
 ## 2019.11.07

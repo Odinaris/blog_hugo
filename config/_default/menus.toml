@@ -14,10 +14,10 @@
   url = "/categories/生活/"
   weight = 3
 
-# [[main]]
-#   name = "文档"
-#   url = "/docs/"
-#   weight = 3
+[[main]]
+  name = "文档"
+  url = "/docs/"
+  weight = 3
 
  [[main]]
   name = "札记"
