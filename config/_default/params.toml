@@ -26,6 +26,7 @@ publisherLogo = ""
 
 [math]
   handler = "katex"
+  displayMode = true
 
   # [math.katex]
   #   # Browse https://katex.org/docs/options.html to see the options available.
