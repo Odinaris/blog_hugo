@@ -1,5 +1,5 @@
 +++
-title = "JPEG隐写术之J-UNIWARD"
+title = "阅读笔记 - Universal distortion function for steganography in an arbitrary domain"
 summary = "本文对JPEG经典隐写术J-UNIWARD进行介绍，首先介绍方向滤波器组，然后解释失真函数的设计思想，最后介绍UNIWARD的加性近似过程。"
 authors = ["duyang"]
 tags = ["科研","JPEG"]

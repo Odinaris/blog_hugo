@@ -60,7 +60,7 @@ draft = false
 
 $$\mathbf{z} =\mathcal{F}(\mathbf{x})$$
 
-$$\mathbf{z}_{l}, \mathbf{z}_{h}=t(\mathbf{z} ; r)$$
+$$\mathbf{z}_{l},\mathbf{z}_{h}=t(\mathbf{z};r)$$
 
 $$\mathbf{x}_{l}= \mathcal{F}^{-1}\left(\mathbf{z}_{l}\right)$$
 
