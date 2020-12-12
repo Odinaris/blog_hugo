@@ -17,12 +17,12 @@
 [[main]]
   name = "文档"
   url = "/docs/"
-  weight = 3
+  weight = 4
 
- [[main]]
-  name = "札记"
-  url = "/message/"
-  weight = 4 
+#  [[main]]
+#   name = "札记"
+#   url = "/message/"
+#   weight = 4 
 
   [[main]]
   name = "关于我"
